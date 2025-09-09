@@ -62,4 +62,25 @@ This project turns **raw data into business insights** that support better plann
 - Slicers for interactivity  
 
 ---
+## 📷 Dashboard Snapshots
+
+Below are some visuals from the **Electric Vehicle Dashboard** that highlight adoption trends, performance, and insights:
+
+### 🔹 Overall Dashboard
+![](https://github.com/Danush-US/Electric-Vehicle-Dashboard-Using-Excel/blob/main/Electric%20Vehicle%20Dashboard.png)
+
+### 🔹 Vehicle Eligibility for Clean Alternative Fuel Vehicle (CAFV)
+![](https://github.com/Danush-US/Electric-Vehicle-Dashboard-Using-Excel/blob/main/CAFV.png)
+
+### 🔹 Average Electric Range 
+![Average Range ](https://github.com/Danush-US/Electric-Vehicle-Dashboard-Using-Excel/blob/main/Model%20by%20Avg.png)
+
+### 🔹 EV Adoption by Model Year
+![EV Adoption by Year](https://github.com/Danush-US/Electric-Vehicle-Dashboard-Using-Excel/blob/main/Model%20Year.png)
+
+### 🔹 State-wise Adoption
+![State-wise EV Distribution](https://github.com/Danush-US/Electric-Vehicle-Dashboard-Using-Excel/blob/main/State%20wise.png)
+
+### 🔹 Top 10 Manufacturers by Volume
+![Top 10 by Model](https://github.com/Danush-US/Electric-Vehicle-Dashboard-Using-Excel/blob/main/top%2010%20by%20model.png)
 
